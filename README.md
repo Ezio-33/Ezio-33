@@ -27,7 +27,7 @@ Voici mes projets sur lesquels j'ai travaillé pour ma formation chez holberton 
 - [Projet 3](https://github.com/Ezio-33/holbertonschool-printf) : Projet Printf
 - [Projet 4](https://github.com/Ezio-33/holbertonschool-binary_trees) : Projet binary_trees
 - [Projet 5](https://github.com/Ezio-33/holbertonschool-sorting_algorithms) : Projet sorting_algorithms
-
+- [Projet 5]([https://github.com/Ezio-33/holbertonschool-sorting_algorithms](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)) : Projet Simple Shell
 
 ## Interêts techniques
 
