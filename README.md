@@ -29,6 +29,10 @@ Voici mes projets sur lesquels j'ai travaillé pour ma formation chez holberton 
 - [Projet 5](https://github.com/Ezio-33/holbertonschool-sorting_algorithms) : Projet sorting_algorithms
 - [Projet 6](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel) : Projet Simple Shell
 
+## Projet personnel
+
+- [Projet Script_Prod](https://github.com/Ezio-33/Script_Prod/blob/main/README.md) : Ce projet vise à améliorer et automatiser des tâches pour les projets de l'école Holberton School sur Ubuntu.
+  
 ## Interêts techniques
 
 Voici quelques-uns des domaines techniques sur lesquels je suis passionné :
