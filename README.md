@@ -47,4 +47,4 @@ Voici quelques-uns des domaines techniques sur lesquels je suis passionné :
 N'hésitez pas à me contacter pour discuter de nouveaux projets ou pour obtenir de l'aide !
 
 - Email : 8691@holbertonstudents.com
-- LinkedIn : ([Samuel VERSCHUEREN](https://www.linkedin.com/in/samuel-verschueren-9b25621b2/)
+- LinkedIn : [Samuel VERSCHUEREN](https://www.linkedin.com/in/samuel-verschueren-9b25621b2/)
