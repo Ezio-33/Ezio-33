@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
 Bienvenue sur mon profil GitHub ! Voici un aperçu de mes réalisations et de mes intérêts techniques.
 
-## Aperçu
-
-
 
 ## Projet personnel
 
 - [Projet Script_Prod](https://github.com/Ezio-33/Script_Prod/blob/main/README.md) : Ce projet vise à améliorer et automatiser des tâches pour les projets de l'école Holberton School sur Ubuntu.
 
+## Aperçu de ma formation
 Voici quelques projets sur lesquels j'ai travaillé pour ma formation chez holberton school:
 
 - [Projet  Projet Printf :](https://github.com/Ezio-33/holbertonschool-printf)
