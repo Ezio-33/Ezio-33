@@ -20,19 +20,17 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de mes réalisations et de me
 
 ## Aperçu
 
-Voici mes projets sur lesquels j'ai travaillé pour ma formation chez holberton school:
 
-- [Projet 1](https://github.com/Ezio-33/holbertonschool-shell) : Projet shell
-- [Projet 2](https://github.com/Ezio-33/holbertonschool-low_level_programming) : Projet low_level_programming
-- [Projet 3](https://github.com/Ezio-33/holbertonschool-printf) : Projet Printf
-- [Projet 4](https://github.com/Ezio-33/holbertonschool-binary_trees) : Projet binary_trees
-- [Projet 5](https://github.com/Ezio-33/holbertonschool-sorting_algorithms) : Projet sorting_algorithms
-- [Projet 6](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel) : Projet Simple Shell
 
 ## Projet personnel
 
 - [Projet Script_Prod](https://github.com/Ezio-33/Script_Prod/blob/main/README.md) : Ce projet vise à améliorer et automatiser des tâches pour les projets de l'école Holberton School sur Ubuntu.
-  
+
+Voici quelques projets sur lesquels j'ai travaillé pour ma formation chez holberton school:
+
+- [Projet  Projet Printf :](https://github.com/Ezio-33/holbertonschool-printf)
+- [Projet Projet Simple Shell :](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
+- [Projet Projet HBNB](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
 ## Interêts techniques
 
 Voici quelques-uns des domaines techniques sur lesquels je suis passionné :
