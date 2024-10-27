@@ -24,7 +24,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de mes réalisations et de me
 - [Projet Script_Prod](https://github.com/Ezio-33/Script_Prod/blob/main/README.md) : Ce projet vise à améliorer et automatiser des tâches pour les projets de l'école Holberton School sur Ubuntu.
 
 ## Projet de fin de formation:
-- [Je prévois de créer un chatbot de support piloté par IA. Je suis encore en phase de recherche, mais dès que le codage commencera, je partagerai les avancées ici. Je suis ouvert à tout conseil si vous souhaitez en donner.]()
+- [Je prévois de créer un chatbot de support piloté par IA. Je suis ouvert à tout conseil si vous souhaitez en donner.](https://github.com/Ezio-33/StreamerBot---Assistant-virtuel-pour-Streamer-Dashboard/tree/Dev)
 
 ## Aperçu de ma formation
 Voici quelques projets sur lesquels j'ai travaillé pour ma formation chez holberton school:
