@@ -1,49 +1,65 @@
-### Bonjour 👋
+# Samuel VERSCHUEREN
 
-<!--
-**Ezio-33/Ezio-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Bonjour et bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+Je suis un développeur passionné, actuellement en formation chez Holberton School. Mon parcours est axé sur l'apprentissage continu et le développement de projets innovants.
 
-- 🔭 Je travaille actuellement sur ...
-- 🌱 J'apprends actuellement ...
-- 👯 Je cherche à collaborer sur ...
-- 🤔 Je cherche de l'aide pour ...
-- 💬 Interrogez-moi sur ...
-- 📫 Comment me joindre : ...
-- 😄 Pronoms: ...
-- ⚡ Faits amusants: ...
--->
-# Profil GitHub
+## 🚀 Projets phares
 
-Bienvenue sur mon profil GitHub ! Voici un aperçu de mes réalisations et de mes intérêts techniques.
+### StreamerBot - Assistant virtuel pour Streamer Dashboard
+[Lien vers le projet](https://github.com/Ezio-33/StreamerBot---Assistant-virtuel-pour-Streamer-Dashboard)
+- Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
+- Technologies : Python, NLTK, IA
 
+### Script_Prod
+[Lien vers le projet](https://github.com/Ezio-33/Script_Prod)
+- Automatisation de tâches pour les projets Holberton School sur Ubuntu
+- Technologies : Bash scripting
 
-## Projet personnel
+## 🎓 Projets académiques
 
-- [Projet Script_Prod](https://github.com/Ezio-33/Script_Prod/blob/main/README.md) : Ce projet vise à améliorer et automatiser des tâches pour les projets de l'école Holberton School sur Ubuntu.
+### Projet Printf
+[Lien vers le projet](https://github.com/Ezio-33/holbertonschool-printf)
+- Recréation de la fonction printf en C
+- Compétences : Manipulation de chaînes, gestion de formats variés
 
-## Projet de fin de formation:
-- [Je prévois de créer un chatbot de support piloté par IA. Je suis ouvert à tout conseil si vous souhaitez en donner.](https://github.com/Ezio-33/StreamerBot---Assistant-virtuel-pour-Streamer-Dashboard)
+### Simple Shell
+[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
+- Implémentation d'un shell UNIX basique
+- Compétences : Processus, gestion de fichiers, parsing de commandes
 
-## Aperçu de ma formation
-Voici quelques projets sur lesquels j'ai travaillé pour ma formation chez holberton school:
+### Projet HBNB
+[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-AirBnB_clone_v4)
+- Clone d'AirBnB avec backend en Python et frontend en JavaScript
+- Technologies : Flask, SQLAlchemy, jQuery
 
-- [Projet  Projet Printf :](https://github.com/Ezio-33/holbertonschool-printf)
-- [Projet Projet Simple Shell :](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
-- [Projet Projet HBNB](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
-## Interêts techniques
+## 💻 Compétences techniques
 
-Voici quelques-uns des domaines techniques sur lesquels je suis passionné :
+- Langages : C, Python, Bash, JavaScript
+- Web : HTML, CSS, Flask
+- Bases de données : MySQL, SQLAlchemy
+- Outils : Git, GitHub, VSCode
 
+## 📊 Statistiques GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezio-33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezio-33&show_icons=true&theme=radical)
+
+## 🌱 Centres d'intérêt et apprentissage en cours
+
+- Intelligence Artificielle et Machine Learning
+- Développement Web Full-Stack
+- DevOps et automatisation
 - Programmation fonctionnelle
-- Machine learning
-- Intelligence artificielle
-- Développement web
 
-## Contactez-moi
+## 📫 Contact
 
-N'hésitez pas à me contacter pour discuter de nouveaux projets ou pour obtenir de l'aide !
+Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
 
-- Email : 8691@holbertonstudents.com
-- LinkedIn : [Samuel VERSCHUEREN](https://www.linkedin.com/in/samuel-verschueren-9b25621b2/)
+- 📧 Email : [8691@holbertonstudents.com](mailto:8691@holbertonstudents.com)
+- 💼 LinkedIn : [Samuel VERSCHUEREN](https://www.linkedin.com/in/samuel-verschueren-9b25621b2/)
+
+---
+
+⭐️ N'hésitez pas à explorer mes repositories pour voir mes derniers projets et contributions !
