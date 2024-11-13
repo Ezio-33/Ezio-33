@@ -9,7 +9,8 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 ### StreamerBot - Assistant virtuel pour Streamer Dashboard
 [Lien vers le projet](https://github.com/Ezio-33/StreamerBot---Assistant-virtuel-pour-Streamer-Dashboard)
 - Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
-- Technologies : Python, NLTK, IA
+- Technologies : Python,Flask, NLTK, TensorFlow, Keras, 
+
 
 ### Script_Prod
 [Lien vers le projet](https://github.com/Ezio-33/Script_Prod)
