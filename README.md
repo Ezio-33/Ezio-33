@@ -13,9 +13,9 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 - Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
 - Technologies : Python,Flask, NLTK, TensorFlow, Keras,
 
-### Script_Prod
+### CodeAssist
 
-[Lien vers le projet](https://github.com/Ezio-33/Script_Prod)
+[Lien vers le projet](https://github.com/Ezio-33/CodeAssist)
 
 - Automatisation de tâches pour les projets Holberton School sur Ubuntu
 - Technologies : Bash scripting
