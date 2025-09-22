@@ -6,9 +6,9 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 
 ## 🚀 Projets phares
 
-### StreamerBot - Assistant virtuel pour Streamer Dashboard
+### Mila Assist - Assistant virtuel pour Streamer Dashboard
 
-[Lien vers le projet](https://github.com/Ezio-33/StreamerBot---Assistant-virtuel-pour-Streamer-Dashboard)
+[Lien vers le projet](https://github.com/Ezio-33/Mila-Assist-Assistant-virtuel-pour-streameur)
 
 - Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
 - Technologies : Python,Flask, NLTK, TensorFlow, Keras,
