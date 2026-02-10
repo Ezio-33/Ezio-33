@@ -8,7 +8,7 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 
 ### Mila Assist - Assistant virtuel pour Streamer Dashboard
 
-[Lien vers le projet](https://github.com/Ezio-33/Mila-Assist-Assistant-virtuel-pour-streameur)
+[Lien vers le projet](https://github.com/Ezio-33/Presentation-Mila-Assit/tree/main/application_mila_assit)
 
 - Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
 - Technologies : Python,Flask, NLTK, TensorFlow, Keras,
