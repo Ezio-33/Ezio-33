@@ -9,11 +9,11 @@ Je suis concepteur développeur d'applications, formé chez Holberton School ave
 Je suis le fondateur de **Nocticiel**, une entreprise qui réunit deux activités :
 
 1. **Création de contenu** : streams et vidéos, principalement sur Twitch et YouTube.
-   - 🌐 Site officiel : [La Confrérie des Ombres](https://la-confrerie-des-ombres.nocticiel.fr/) ([code source](https://github.com/Ezio-33/Site_la.confrerie.des.ombres))
+   - 🌐 Site officiel : [La Confrérie des Ombres](https://la-confrerie-des-ombres.nocticiel.fr/)
 2. **Développement sur mesure** : création de sites internet et d'applications selon les besoins des particuliers et des entreprises, et mise à disposition de logiciels par abonnement.
 
 - 🚧 Le site officiel de Nocticiel arrivera prochainement.
-- 💼 Portfolio : [samuel-verschueren-portfolio.vercel.app](https://samuel-verschueren-portfolio.vercel.app/#accueil) ([code source](https://github.com/Ezio-33/Site_Portefolio))
+- 💼 Portfolio : [samuel-verschueren-portfolio.vercel.app](https://samuel-verschueren-portfolio.vercel.app/#accueil)
 - 📧 Contact professionnel : [contact@nocticiel.fr](mailto:contact@nocticiel.fr)
 
 ## 🚀 Projets phares
