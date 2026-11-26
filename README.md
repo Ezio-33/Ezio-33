@@ -2,7 +2,19 @@
 
 ## 👋 Bonjour et bienvenue sur mon profil GitHub !
 
-Je suis un développeur passionné, actuellement en formation chez Holberton School pour devenir spécialiste en Machine Learning. Mon parcours est axé sur l'apprentissage continu et le développement de projets innovants.
+Je suis concepteur développeur d'applications, formé chez Holberton School avec une spécialisation en Machine Learning. J'aime concevoir des outils utiles, de l'automatisation à l'intelligence artificielle.
+
+## 🏢 Nocticiel
+
+Je suis le fondateur de **Nocticiel**, une entreprise qui réunit deux activités :
+
+1. **Création de contenu** : streams et vidéos, principalement sur Twitch et YouTube.
+   - 🌐 Site officiel : [La Confrérie des Ombres](https://la-confrerie-des-ombres.nocticiel.fr/) ([code source](https://github.com/Ezio-33/Site_la.confrerie.des.ombres))
+2. **Développement sur mesure** : création de sites internet et d'applications selon les besoins des particuliers et des entreprises, et mise à disposition de logiciels par abonnement.
+
+- 🚧 Le site officiel de Nocticiel arrivera prochainement.
+- 💼 Portfolio : [samuel-verschueren-portfolio.vercel.app](https://samuel-verschueren-portfolio.vercel.app/#accueil) ([code source](https://github.com/Ezio-33/Site_Portefolio))
+- 📧 Contact professionnel : [contact@nocticiel.fr](mailto:contact@nocticiel.fr)
 
 ## 🚀 Projets phares
 
@@ -11,7 +23,8 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 [Lien vers le projet](https://github.com/Ezio-33/Presentation-Mila-Assit/tree/main/application_mila_assit)
 
 - Chatbot intelligent fonctionnant localement pour optimiser l'expérience des streamers
-- Technologies : Python,Flask, NLTK, TensorFlow, Keras,
+- ⚠️ L'IA de Mila Assist est en cours de mise à jour et de restructuration : elle peut subir des perturbations.
+- Technologies : Python, Flask, NLTK, TensorFlow, Keras
 
 ### CodeAssist
 
@@ -54,14 +67,14 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 
 ### Simple Shell
 
-[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
+[Lien vers le projet](https://github.com/Ezio-33/holbertonschool-simple_shell)
 
 - Implémentation d'un shell UNIX basique
 - Compétences : Processus, gestion de fichiers, parsing de commandes
 
 ### Projet HBNB
 
-[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-AirBnB_clone_v4)
+[Lien vers le projet](https://github.com/Ezio-33/holbertonschool-hbnb)
 
 - Clone d'AirBnB avec backend en Python et frontend en JavaScript
 - Technologies : Flask, SQLAlchemy, jQuery
@@ -91,9 +104,11 @@ Je suis un développeur passionné, actuellement en formation chez Holberton Sch
 
 Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage !
 
-- 📧 Email : [8691@holbertonstudents.com](mailto:8691@holbertonstudents.com)
+- 📧 Email : [contact@nocticiel.fr](mailto:contact@nocticiel.fr)
 - 💼 LinkedIn : [Samuel VERSCHUEREN](https://www.linkedin.com/in/samuel-verschueren-9b25621b2/)
 
 ---
 
 ⭐️ N'hésitez pas à explorer mes repositories pour voir mes derniers projets et contributions !
+
+_Dernière mise à jour : 26 novembre 2026_
