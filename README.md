@@ -67,14 +67,14 @@ Je suis le fondateur de **Nocticiel**, une entreprise qui réunit deux activité
 
 ### Simple Shell
 
-[Lien vers le projet](https://github.com/Ezio-33/holbertonschool-simple_shell)
+[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-simple_shell/tree/Samuel)
 
 - Implémentation d'un shell UNIX basique
 - Compétences : Processus, gestion de fichiers, parsing de commandes
 
 ### Projet HBNB
 
-[Lien vers le projet](https://github.com/Ezio-33/holbertonschool-hbnb)
+[Lien vers le projet](https://github.com/Thomas3300000/holbertonschool-AirBnB_clone_v4)
 
 - Clone d'AirBnB avec backend en Python et frontend en JavaScript
 - Technologies : Flask, SQLAlchemy, jQuery
